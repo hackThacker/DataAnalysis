@@ -42,10 +42,15 @@ Follow these steps to install Jupyter Notebook and set up your environment:
 
 6. **Now go into report folder:**
    - To ensure that you installed correctly, run the following command in your CLI:
+   - Running this command will instruct pip to install all the packages listed in the requirements.txt file
      ```
      pip install -r requirements.txt
       ```
-      you have .csv files into your report folder and rename the files  which you want to generate report into html from csv files to analysis dataset.
+    - After the installation process is complete, you can verify that the packages were installed successfully by running
+      ```
+     pip list
+       ```
+     - you have .csv files into your report folder and rename the files  which you want to generate report into html from csv files to analysis dataset.
        ```
      python dataset.py
       ```
