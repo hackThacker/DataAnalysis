@@ -36,8 +36,11 @@ Follow these steps to install Jupyter Notebook and set up your environment:
      ```
      You should see Download files displayed into your download directory extract that then go to next step.
      
-     
-5. **Now go into report folder:**
+5. **into files directory  :**
+   - Into files directory there are many lots of .csv files for given practise.
+   - You can used this files for practise also  :
+
+6. **Now go into report folder:**
    - To ensure that you installed correctly, run the following command in your CLI:
      ```
      pip install -r requirements.txt
@@ -49,7 +52,7 @@ Follow these steps to install Jupyter Notebook and set up your environment:
     
     
 
-6. **After report go to  analysis folder :**
+7. **After report go to  analysis folder :**
    - first read report which is generated and read each things and then what you want to analysis first clear on it.
    - after you read report then into analysis folder there is jyupter files run jupyter :
    - from your download folder run jupter then .csv files also into that same analysis folder
