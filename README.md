@@ -53,6 +53,7 @@ Follow these steps to install Jupyter Notebook and set up your environment:
     
 
 7. **After report go to  analysis folder :**
+   - Modify accoding to your .csv = into jyupter files.
    - first read report which is generated and read each things and then what you want to analysis first clear on it.
    - after you read report then into analysis folder there is jyupter files run jupyter :
    - from your download folder run jupter then .csv files also into that same analysis folder
