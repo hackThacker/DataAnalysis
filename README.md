@@ -29,7 +29,15 @@ Follow these steps to install Jupyter Notebook and set up your environment:
      ```
      You should see the Jupyter Notebook version displayed.
      
-3. **Now go into report folder:**
+4. **download the repo:**
+   - To ensure that Jupyter Notebook is installed correctly, run the following command in your CLI:
+     ```
+     git clone https://github.com/hackThacker/DataAnalysis.git
+     ```
+     You should see the Jupyter Notebook version displayed.
+     
+     
+5. **Now go into report folder:**
    - To ensure that you installed correctly, run the following command in your CLI:
      ```
      pip install -r requirements.txt
@@ -41,7 +49,7 @@ Follow these steps to install Jupyter Notebook and set up your environment:
     
     
 
-4. **After report go to  analysis folder :**
+6. **After report go to  analysis folder :**
    - first read report which is generated and read each things and then what you want to analysis first clear on it.
    - after you read report then into analysis folder there is jyupter files run jupyter :
    - from your download folder run jupter then .csv files also into that same analysis folder
