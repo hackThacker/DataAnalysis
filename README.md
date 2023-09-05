@@ -58,4 +58,6 @@ This repository contains a Python script for data analysis and visualization usi
 
 28. **Top 10 Most Sold Products:** Create a bar chart showing the top 10 most sold products.
 
+ # You can used many files for learning into files directory there are many csv files are located
+
 Feel free to use and modify this code for your own data analysis and visualization projects. If you have any questions or need further assistance, please don't hesitate to ask.
