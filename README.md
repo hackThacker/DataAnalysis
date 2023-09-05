@@ -41,9 +41,10 @@ Follow these steps to install Jupyter Notebook and set up your environment:
     
     
 
-4. **After go into :**
-   - In your CLI, navigate to the directory where you want to work on your Jupyter Notebook.
-   - Run the following command to start Jupyter Notebook:
+4. **After report go to  analysis folder :**
+   - first read report which is generated and read each things and then what you want to analysis first clear on it.
+   - after you read report then into analysis folder there is jyupter files run jupyter :
+   - from your download folder run jupter then .csv files also into that same analysis folder
      ```
      jupyter notebook
      ```
@@ -64,11 +65,6 @@ Once Jupyter Notebook is running, follow these steps to open a file:
    - You can add and edit cells in your notebook to write and execute code.
    - To run a cell, select it and press Shift+Enter.
    - Save your work regularly by clicking the "Save" button or using the keyboard shortcut (Ctrl+S or Cmd+S on macOS).
-
-
-
-
-
 
  ## Usage
 
