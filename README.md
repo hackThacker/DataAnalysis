@@ -48,10 +48,10 @@ Follow these steps to install Jupyter Notebook and set up your environment:
       ```
     - After the installation process is complete, you can verify that the packages were installed successfully by running
       ```
-     pip list
-       ```
-     - you have .csv files into your report folder and rename the files  which you want to generate report into html from csv files to analysis dataset.
-       ```
+      pip list
+      ```
+   - you have .csv files into your report folder and rename the files  which you want to generate report into html from csv files to analysis dataset.
+      ```
      python dataset.py
       ```
     
