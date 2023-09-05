@@ -34,7 +34,7 @@ Follow these steps to install Jupyter Notebook and set up your environment:
      ```
      git clone https://github.com/hackThacker/DataAnalysis.git
      ```
-     You should see the Jupyter Notebook version displayed.
+     You should see Download files displayed into your download directory extract that then go to next step.
      
      
 5. **Now go into report folder:**
